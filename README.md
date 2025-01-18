@@ -24,7 +24,7 @@ This project is a simple ReactJS application that fetches product data from the 
 
 1. Clone the repository:
 
-git clone - https://github.com/NickshanJ/Router.git
+ git clone - https://github.com/NickshanJ/Router.git
 
 2. cd Router
 
