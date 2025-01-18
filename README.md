@@ -24,7 +24,7 @@ This project is a simple ReactJS application that fetches product data from the 
 
 1. Clone the repository:
 
-git clone - https://github.com/NickshanJ/Router.git
+   git clone - https://github.com/NickshanJ/Router.git
 
 2. cd Router
 
@@ -32,7 +32,7 @@ git clone - https://github.com/NickshanJ/Router.git
 
 4. npm run dev
 
-5. This Application will be available in : 
+5. This Application will be available in : https://router0.netlify.app/
 
 
 ## Project Structure:
