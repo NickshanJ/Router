@@ -24,14 +24,15 @@ This project is a simple ReactJS application that fetches product data from the 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/add-to-cart.git
-cd add-to-cart
+git clone - https://github.com/NickshanJ/Router.git
 
-2. npm install
+2. cd Router
 
-3. npm run dev
+3. npm install
 
-4. This Application will be available in : 
+4. npm run dev
+
+5. This Application will be available in : 
 
 
 ## Project Structure:
